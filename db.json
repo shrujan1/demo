@@ -1,7 +1,1 @@
-{
-  [
-          { id:'1', name: 'raju', age: 28 },
-          { id:'2',name: 'saju', age: 49},
-          { id:'3',name: 'mango', age: 30},
-  ]
-}
+[{"id":"1","name":"raju","age":28},{"id":"2","name":"saju","age":49}]
